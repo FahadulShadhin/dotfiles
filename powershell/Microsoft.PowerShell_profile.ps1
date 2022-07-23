@@ -12,4 +12,4 @@ Set-PSReadLineOption -PredictionViewStyle ListView
 Set-PSReadLineOption -EditMode Windows
 
 # theme 
-oh-my-posh init pwsh --config C:\Users\masum\AppData\Local\Programs\oh-my-posh\themes\amro.omp.json | Invoke-Expressionl
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\amro.omp.json" | Invoke-Expressionl
