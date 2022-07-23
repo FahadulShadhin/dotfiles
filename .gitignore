@@ -23,11 +23,7 @@
 dev/
 wslu/
 completions/
-config.d/
 *log
 *.dvi
 *.aux
 *.elc
-fisher.fish 
-__z.*
-__z_*
