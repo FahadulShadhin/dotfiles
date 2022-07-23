@@ -29,12 +29,16 @@ if status is-interactive
 
     # virtual environment 
     alias pyenv='virtualenv'                                    # create: pyenv {env_name}
+    
+    # using venv                                                # create: venv {env_name}
+    alias venv='py -m venv'                   
 
     function activate                                           # activate: activate {env_name}
         source $argv/bin/activate.fish 
     end
     funcsave activate 
     
+
     #========== editor =============#
     alias vi='nvim'
     alias subl='/mnt/c/Program\ Files/Sublime\ Text\ 3/subl.exe'
