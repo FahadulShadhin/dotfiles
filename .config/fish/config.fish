@@ -1,7 +1,6 @@
 if status is-interactive
     set fish_greeting ""                                        # no greeting
-
-    cd $HOME/dev                                                # starting directory 
+    cd $HOME/myfiles                                            # starting directory 
 
     #========== Basics ===========#
     alias c='clear'

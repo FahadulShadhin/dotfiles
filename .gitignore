@@ -17,11 +17,12 @@
 .ssh/
 .sudo_as_admin_successful
 .var/
+.vim/
 .viminfo
 .vscode-server-server/
 .vscode-server/
 .wget-hsts
-dev/
+myfiles/
 wslu/
 completions/
 *log
