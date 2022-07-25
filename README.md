@@ -1,10 +1,10 @@
-# Personal dotfiles
+# $HOME
 
 <img src="img/Screenshot 2022-07-23 220621.png">
 <img src="img/Screenshot 2022-07-23 220933.png">
 
-#### Terminal: [Windows Terminal](https://github.com/microsoft/terminal)
-#### Editor: [Visual Studio Code](https://github.com/microsoft/vscode)
+Terminal: [Windows Terminal](https://github.com/microsoft/terminal)\
+Editor: [Visual Studio Code](https://github.com/microsoft/vscode)
 
 ## Shell setup (WSL)
 * [Fish shell](https://fishshell.com/)
