@@ -3,7 +3,10 @@
 <img src="img/Screenshot 2022-07-23 220621.png">
 <img src="img/Screenshot 2022-07-23 220933.png">
 
-## Shell setup (Linux)
+#### Terminal: [Windows Terminal](https://github.com/microsoft/terminal)
+#### Editor: [Visual Studio Code](https://github.com/microsoft/vscode)
+
+## Shell setup (WSL)
 * [Fish shell](https://fishshell.com/)
 * [Fisher](https://github.com/jorgebucaran/fisher) - Plugin manager
 * [Nerd fonts](https://github.com/ryanoasis/nerd-fonts) - I use Hack NF

@@ -11,6 +11,7 @@
 .motd_shown
 .npm/
 .nvm/
+.netwhistr
 .profile
 .python_history
 .ssh/
