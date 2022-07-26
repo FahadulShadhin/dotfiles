@@ -3,8 +3,15 @@
 <img src="img/Screenshot 2022-07-23 220621.png">
 <img src="img/Screenshot 2022-07-23 220933.png">
 
-Terminal: [Windows Terminal](https://github.com/microsoft/terminal)\
-Editor: [Visual Studio Code](https://github.com/microsoft/vscode)
+Terminal: [Windows Terminal](https://github.com/microsoft/terminal)
+
+## Vim setup:
+* [Neovim](https://github.com/neovim/neovim) (v0.7.2)
+* [vim-plug](https://github.com/junegunn/vim-plug) - Plugin manager for Vim
+* [nerd-tree](https://github.com/preservim/nerdtree) - File system explorer
+* [vim-commentary](https://github.com/tpope/vim-commentary) - Comment stuff out!
+* [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Brackets, quotes autocomplete
+* [vim-airline](https://github.com/vim-airline/vim-airline) - Nice statusline
 
 ## Shell setup (WSL)
 * [Fish shell](https://fishshell.com/)
