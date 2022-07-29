@@ -31,3 +31,4 @@ completions/
 *.aux
 *.elc
 __*
+__z*
