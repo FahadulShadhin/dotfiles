@@ -9,6 +9,7 @@
 .landscape/
 .local/
 .motd_shown
+.node_repl_history
 .npm/
 .nvm/
 .netwhistr
@@ -29,3 +30,4 @@ completions/
 *.dvi
 *.aux
 *.elc
+__*
