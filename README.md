@@ -1,7 +1,7 @@
 # $HOME
 
-<img src="img/Screenshot 2022-07-23 220621.png">
-<img src="img/Screenshot 2022-07-23 220933.png">
+![screenshot](img/ss1.png)
+![screenshot](img/ss2.png)
 
 Terminal: [Windows Terminal](https://github.com/microsoft/terminal)
 
